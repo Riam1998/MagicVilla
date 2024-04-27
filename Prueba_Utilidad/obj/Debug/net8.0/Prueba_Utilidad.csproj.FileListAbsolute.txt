@@ -1,0 +1,12 @@
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\bin\Debug\net8.0\Prueba_Utilidad.deps.json
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\bin\Debug\net8.0\Prueba_Utilidad.dll
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\bin\Debug\net8.0\Prueba_Utilidad.pdb
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.AssemblyInfoInputs.cache
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.AssemblyInfo.cs
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.csproj.CoreCompileInputs.cache
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.sourcelink.json
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.dll
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\refint\Prueba_Utilidad.dll
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\Prueba_Utilidad.pdb
+C:\Users\prueba\source\repos\prueba1 v2.0\Prueba1\Prueba_Utilidad\obj\Debug\net8.0\ref\Prueba_Utilidad.dll
