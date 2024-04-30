@@ -5,12 +5,12 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prueba1.0", "prueba1.0\prueba1.0.csproj", "{11EE036F-AF38-41A9-8E28-578CCB3F6DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_Web", "Prueba_Web\Prueba_Web.csproj", "{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prueba_Web", "Prueba_Web\Prueba_Web.csproj", "{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}"
 	ProjectSection(ProjectDependencies) = postProject
 		{3D2FD782-2BEA-4A6A-BDDE-2840DAB74460} = {3D2FD782-2BEA-4A6A-BDDE-2840DAB74460}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_Utilidad", "Prueba_Utilidad\Prueba_Utilidad.csproj", "{3D2FD782-2BEA-4A6A-BDDE-2840DAB74460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prueba_Utilidad", "Prueba_Utilidad\Prueba_Utilidad.csproj", "{3D2FD782-2BEA-4A6A-BDDE-2840DAB74460}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

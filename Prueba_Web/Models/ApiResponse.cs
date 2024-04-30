@@ -2,7 +2,7 @@
 
 namespace Prueba_Web.Models
 {
-    public class ApiResponse
+    public class APIResponse
     {
         public HttpStatusCode StatusCode { get; set; }
         public bool IsExitoso { get; set; } = true;

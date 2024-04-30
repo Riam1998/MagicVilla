@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}|Prueba_Web\\Prueba_Web.csproj|c:\\users\\prueba\\source\\repos\\prueba1 v2.0\\prueba1\\prueba_web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}|Prueba_Web\\Prueba_Web.csproj|solutionrelative:prueba_web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}|Prueba_Web\\Prueba_Web.csproj|c:\\users\\prueba\\source\\repos\\prueba1 v2.0\\prueba1\\prueba_web\\views\\villa\\removervilla.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}|Prueba_Web\\Prueba_Web.csproj|solutionrelative:prueba_web\\views\\villa\\removervilla.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}|Prueba_Web\\Prueba_Web.csproj|c:\\users\\prueba\\source\\repos\\prueba1 v2.0\\prueba1\\prueba_web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDE2E46-E31C-4D1E-AA86-4DA03D602C68}|Prueba_Web\\Prueba_Web.csproj|solutionrelative:prueba_web\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\Prueba_Web\\Services\\BaseService.cs",
-              "RelativeDocumentMoniker": "Prueba_Web\\Services\\BaseService.cs",
-              "ToolTip": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\Prueba_Web\\Services\\BaseService.cs",
-              "RelativeToolTip": "Prueba_Web\\Services\\BaseService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwDAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T16:07:08.732Z",
+              "Title": "RemoverVilla.cshtml",
+              "DocumentMoniker": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\Prueba_Web\\Views\\Villa\\RemoverVilla.cshtml",
+              "RelativeDocumentMoniker": "Prueba_Web\\Views\\Villa\\RemoverVilla.cshtml",
+              "ToolTip": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\Prueba_Web\\Views\\Villa\\RemoverVilla.cshtml",
+              "RelativeToolTip": "Prueba_Web\\Views\\Villa\\RemoverVilla.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T21:15:37.806Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaController.cs",
+              "DocumentMoniker": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\Prueba_Web\\Controllers\\VillaController.cs",
+              "RelativeDocumentMoniker": "Prueba_Web\\Controllers\\VillaController.cs",
+              "ToolTip": "C:\\Users\\prueba\\source\\repos\\prueba1 v2.0\\Prueba1\\Prueba_Web\\Controllers\\VillaController.cs",
+              "RelativeToolTip": "Prueba_Web\\Controllers\\VillaController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwFMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:09:37.247Z"
             }
           ]
         }
